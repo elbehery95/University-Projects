@@ -1,7 +1,7 @@
 #A C# windows user interface to measure, plot sampled voltage
 
 I have created during my 2nd year in the university just to watch the RC exponentialy decaying curve sampled by my arduino!. Later on
-we have this tool was used during [iHub](http://ihub.asu.edu.eg) competition to measure the quality of the chargers to be used in our project.
+we have this tool was used during [iHub](http://ihub.asu.edu.eg) competition to measure the quality of the chargers to be used in our project. And we are using it on Pi student activity
 
 The tool was implemented on a Tiny85 and a USB interface but then it was implemented on an Arduino uno.
 [Youtube Video](https://youtu.be/5sMGYwf6GVk)
