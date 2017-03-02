@@ -3,7 +3,10 @@
 I have created during my 2nd year in the university just to watch the RC exponentialy decaying curve sampled by my arduino!. Later on
 we have this tool was used during [iHub](http://ihub.asu.edu.eg) competition to measure the quality of the chargers to be used in our project.
 
-The tool was implemented on a Tiny85 and a USB interface but then it was implemented on an Arduino.
+The tool was implemented on a Tiny85 and a USB interface but then it was implemented on an Arduino uno.
+[Youtube Video](https://youtu.be/5sMGYwf6GVk)
+
+The first prototype 
 
 ![Image tiny85](http://i.imgur.com/hmPkt1b.jpg)
 
