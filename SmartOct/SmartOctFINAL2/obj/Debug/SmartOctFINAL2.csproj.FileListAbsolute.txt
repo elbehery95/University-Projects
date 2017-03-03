@@ -1,0 +1,45 @@
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe.config
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.pdb
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MaterialSkin.dll
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.Design.dll
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.dll
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.Fonts.dll
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.Form1.resources
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.Properties.Resources.resources
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.csproj.GenerateResource.Cache
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.exe
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.pdb
+D:\c-sharp projects\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.csprojResolveAssemblyReference.cache
+F:\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe.config
+F:\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.exe
+F:\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.pdb
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe.config
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.exe
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.pdb
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.pdb
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.Form1.resources
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.Properties.Resources.resources
+C:\Users\Admin\Desktop\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.csproj.GenerateResource.Cache
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe.config
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.exe
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.pdb
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.pdb
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MaterialSkin.dll
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.Design.dll
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.dll
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\MetroFramework.Fonts.dll
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.Form1.resources
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.Properties.Resources.resources
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.csproj.GenerateResource.Cache
+D:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.csprojResolveAssemblyReference.cache
+F:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\bin\Debug\SmartOctFINAL2.exe.config
+F:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.exe
+F:\c-sharp projects\SMARTOCTOPUSBOKRALTASLEM\goda sho3`l\PHASETHREE\SmartOctFINAL2\SmartOctFINAL2\obj\Debug\SmartOctFINAL2.pdb
