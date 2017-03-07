@@ -6,6 +6,8 @@ we have this tool was used during [iHub](http://ihub.asu.edu.eg) competition to 
 The tool was implemented on a Tiny85 and a USB interface but then it was implemented on an Arduino uno.
 [Youtube Video](https://youtu.be/5sMGYwf6GVk)
 
+![software](https://github.com/ELBe7ery/University-Projects/blob/master/PIplotter/Screenshots/11884026_1035172149834659_5246873312351402315_o.jpg?raw=true)
+
 The first prototype 
 
 ![Image tiny85](http://i.imgur.com/hmPkt1b.jpg)
@@ -13,6 +15,7 @@ The first prototype
 The PCB was designed using Fritzing
 
 ![pcb](http://i.imgur.com/wBXperd.png)
+
 
 #TODO
 1- Enhance the microcontroller sampling code
