@@ -1,4 +1,4 @@
-#A C# windows user interface to measure, plot sampled voltage
+# A C# windows user interface to measure, plot sampled voltage
 
 I have created during my 2nd year in the university just to watch the RC exponentialy decaying curve sampled by my arduino!. Later on
 we have this tool was used during [iHub](http://ihub.asu.edu.eg) competition to measure the quality of the chargers to be used in our project. And we are using it on Pi student activity
@@ -17,7 +17,7 @@ The PCB was designed using Fritzing
 ![pcb](http://i.imgur.com/wBXperd.png)
 
 
-#TODO
+# TODO
 1- Enhance the microcontroller sampling code
 
 2- Enhance the overall sampling frequency
