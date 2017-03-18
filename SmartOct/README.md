@@ -1,6 +1,6 @@
-#A full home automation solution with both Windows, Android user interfaces to control outlets
+# A full home automation solution with both Windows, Android user interfaces to control outlets
 
-#TEAM MEMBERS
+# TEAM MEMBERS
 1- Abdelrahman Elbehery [ME]
 
 2- [Abdelrahman Ali](https://www.linkedin.com/in/abd-el-rahman-ali-37592a9a/)
@@ -11,7 +11,7 @@
 
 5- [Khalid Essa](https://www.linkedin.com/in/khalideissa/)
 
-#Project description
+# Project description
 
 Our main target was to build a smart home outlet that can be controlled from the internet, also this outlet can measure the attached devices
 power consumption and log these values to the main controller. All these readings are later shown on the interface [Android, Windows].
@@ -23,7 +23,7 @@ rest of the house smart outlets via a RF link.
 
 ![Module](https://github.com/ELBe7ery/Home-Projects/blob/master/SmartOct/Screenshots/aaa.png)
 
-#User interface
+# User interface
 
 We have implemented Windows and Android UI using C#. The Android app has a feature where the user can set names to any of the attached loades
 On windows the app. will scan if the hardware is connected to the LAN, and if so the user will be allowed to enter his password to view and controll the current connected appliances 
@@ -38,10 +38,10 @@ then they can be recognized via the audio commands such that the user can turn o
 
 ![Mobile app](https://scontent.fcai1-1.fna.fbcdn.net/v/t1.0-9/1897010_696676683767340_2147133191111804540_n.jpg?oh=334db8da715ca6d731c92a2fd14ec406&oe=5938C02C)
 
-#Project documentation
+# Project documentation
 
 --[What is smart oct](https://drive.google.com/file/d/0B3W-vePZKVhPQXNZWmdmQ2lFdkE/view)
 
-#Rewards
+# Rewards
 
 Ihub 2015 Best Engineering Design, Rank 5
