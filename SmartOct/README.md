@@ -40,7 +40,7 @@ then they can be recognized via the audio commands such that the user can turn o
 
 # Project documentation
 
---[What is smart oct](https://drive.google.com/file/d/0B3W-vePZKVhPQXNZWmdmQ2lFdkE/view)
++ [What is smart oct](https://drive.google.com/file/d/0B3W-vePZKVhPQXNZWmdmQ2lFdkE/view)
 
 # Rewards
 
